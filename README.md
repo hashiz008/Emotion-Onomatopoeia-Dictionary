@@ -6,7 +6,7 @@
 **文字列キーとハッシュマップで作成。**
 
 ## Image 
-**<img width="800" alt="スクリーンショット 2022-02-21 15 47 36" src="https://user-images.githubusercontent.com/63139730/154903255-73636cc0-deee-4eb4-93a1-063cbc11f122.png">**
+**<img width="800" alt="スクリーンショット 2022-02-21 16 00 02" src="https://user-images.githubusercontent.com/63139730/154904766-f51d6a77-a62c-4de8-b6d5-4196a2a6ad34.png">**
 
 ## Usage
 **上部に感情の図がありそれぞれクリックすると下部の該当する感情の説明にとびます。**
