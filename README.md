@@ -14,5 +14,11 @@
 ## Reference
 **<a href='https://emotion-onomatopoeia-dictionary.vercel.app/'>Emotion Onomatopoeia Dictionaryへようこそ</a>**
 
+## Requirement
+ * HTML
+ * CSS
+ * JavaScript
+ * Bootstrap
+
 ## Author
 **<a href="https://github.com/hashiz008">hashiz008</a>**
